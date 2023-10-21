@@ -3,7 +3,7 @@ import sys
 from PySide6.QtWidgets import QMainWindow, QApplication, QFormLayout
 from PySide6.QtGui import QImage, QPixmap
 from PySide6.QtCore import QTimer
-from src.ui.smoke_detector_ui import Ui_MainWindow
+from smoke_detector_ui import Ui_MainWindow
 from PIL import Image
 from pathlib import Path
 from time import strftime
