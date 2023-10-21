@@ -1,0 +1,2 @@
+log_path: 'resources/main_log.log'
+resources_path : 'resources'

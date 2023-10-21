@@ -1,0 +1,143 @@
+2023/10/19 23:05:39 Logging Server Start!
+2023/10/19 23:05:43 Logging Server Start!
+2023/10/19 23:05:43 try to connet with host:localhost port:11251
+2023/10/19 23:05:43 accepted: <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 54338)> from: ('127.0.0.1', 54338)
+2023/10/19 23:05:43 successful connecting with host:localhost port:11251
+2023/10/19 23:05:43 sending image data
+2023/10/19 23:05:43 sending over, recv the result
+2023/10/19 23:05:43 successful receive b'\xff\xd8\xff\xe0\x00\x10JFIF' from <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 54338)>
+2023/10/19 23:05:43 generate results: [[2443, 500, 2509, 645], [2676, 186, 2781, 370], [840, 806, 920, 956]]
+2023/10/19 23:05:43 successful receive b'XZ;i-\x90!\xf3\xdaM' from <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 54338)>
+2023/10/19 23:05:43 Importing BlpImagePlugin
+2023/10/19 23:05:43 Importing BmpImagePlugin
+2023/10/19 23:05:43 Importing BufrStubImagePlugin
+2023/10/19 23:05:43 Importing CurImagePlugin
+2023/10/19 23:05:43 Importing DcxImagePlugin
+2023/10/19 23:05:43 Importing DdsImagePlugin
+2023/10/19 23:05:43 Importing EpsImagePlugin
+2023/10/19 23:05:43 Importing FitsImagePlugin
+2023/10/19 23:05:43 Importing FitsStubImagePlugin
+2023/10/19 23:05:43 Importing FliImagePlugin
+2023/10/19 23:05:43 Importing FpxImagePlugin
+2023/10/19 23:05:43 Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023/10/19 23:05:43 Importing FtexImagePlugin
+2023/10/19 23:05:43 Importing GbrImagePlugin
+2023/10/19 23:05:43 Importing GifImagePlugin
+2023/10/19 23:05:43 Importing GribStubImagePlugin
+2023/10/19 23:05:43 Importing Hdf5StubImagePlugin
+2023/10/19 23:05:43 Importing IcnsImagePlugin
+2023/10/19 23:05:43 Importing IcoImagePlugin
+2023/10/19 23:05:43 Importing ImImagePlugin
+2023/10/19 23:05:43 Importing ImtImagePlugin
+2023/10/19 23:05:43 Importing IptcImagePlugin
+2023/10/19 23:05:43 Importing JpegImagePlugin
+2023/10/19 23:05:43 Importing Jpeg2KImagePlugin
+2023/10/19 23:05:43 Importing McIdasImagePlugin
+2023/10/19 23:05:43 Importing MicImagePlugin
+2023/10/19 23:05:43 Image: failed to import MicImagePlugin: No module named 'olefile'
+2023/10/19 23:05:43 Importing MpegImagePlugin
+2023/10/19 23:05:43 Importing MpoImagePlugin
+2023/10/19 23:05:43 Importing MspImagePlugin
+2023/10/19 23:05:43 Importing PalmImagePlugin
+2023/10/19 23:05:43 Importing PcdImagePlugin
+2023/10/19 23:05:43 Importing PcxImagePlugin
+2023/10/19 23:05:43 Importing PdfImagePlugin
+2023/10/19 23:05:43 Importing PixarImagePlugin
+2023/10/19 23:05:43 Importing PngImagePlugin
+2023/10/19 23:05:43 Importing PpmImagePlugin
+2023/10/19 23:05:43 Importing PsdImagePlugin
+2023/10/19 23:05:43 Importing SgiImagePlugin
+2023/10/19 23:05:43 Importing SpiderImagePlugin
+2023/10/19 23:05:43 Importing SunImagePlugin
+2023/10/19 23:05:43 Importing TgaImagePlugin
+2023/10/19 23:05:43 Importing TiffImagePlugin
+2023/10/19 23:05:43 Importing WebPImagePlugin
+2023/10/19 23:05:43 Importing WmfImagePlugin
+2023/10/19 23:05:43 Importing XbmImagePlugin
+2023/10/19 23:05:43 Importing XpmImagePlugin
+2023/10/19 23:05:43 Importing XVThumbImagePlugin
+2023/10/19 23:06:59 Logging Server Start!
+2023/10/19 23:06:59 try to connet with host:localhost port:11251
+2023/10/19 23:06:59 successful connecting with host:localhost port:11251
+2023/10/19 23:06:59 sending image data
+2023/10/19 23:06:59 sending over, recv the result
+2023/10/19 23:07:33 Logging Server Start!
+2023/10/19 23:07:33 try to connet with host:localhost port:11251
+2023/10/19 23:07:33 successful connecting with host:localhost port:11251
+2023/10/19 23:07:33 sending image data
+2023/10/19 23:07:33 sending over, recv the result
+2023/10/19 23:08:15 Logging Server Start!
+2023/10/19 23:08:15 try to connet with host:localhost port:11251
+2023/10/19 23:08:15 successful connecting with host:localhost port:11251
+2023/10/19 23:08:15 sending image data
+2023/10/19 23:08:15 sending over, recv the result
+2023/10/19 23:08:44 Logging Server Start!
+2023/10/19 23:08:44 try to connet with host:localhost port:11251
+2023/10/19 23:08:44 successful connecting with host:localhost port:11251
+2023/10/19 23:08:44 sending image data
+2023/10/19 23:08:44 sending over, recv the result
+2023/10/19 23:22:35 Logging Server Start!
+2023/10/19 23:22:38 accepted: <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 55399)> from: ('127.0.0.1', 55399)
+2023/10/19 23:22:38 successful receive b'\x02\x07\x00\x11\x13\x1f\x17\x138\x0c' from <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 55399)>
+2023/10/19 23:22:38 Importing BlpImagePlugin
+2023/10/19 23:22:38 Importing BmpImagePlugin
+2023/10/19 23:22:38 Importing BufrStubImagePlugin
+2023/10/19 23:22:38 Importing CurImagePlugin
+2023/10/19 23:22:38 Importing DcxImagePlugin
+2023/10/19 23:22:38 Importing DdsImagePlugin
+2023/10/19 23:22:38 Importing EpsImagePlugin
+2023/10/19 23:22:38 Importing FitsImagePlugin
+2023/10/19 23:22:38 Importing FitsStubImagePlugin
+2023/10/19 23:22:38 Importing FliImagePlugin
+2023/10/19 23:22:38 Importing FpxImagePlugin
+2023/10/19 23:22:38 Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023/10/19 23:22:38 Importing FtexImagePlugin
+2023/10/19 23:22:38 Importing GbrImagePlugin
+2023/10/19 23:22:38 Importing GifImagePlugin
+2023/10/19 23:22:38 Importing GribStubImagePlugin
+2023/10/19 23:22:38 Importing Hdf5StubImagePlugin
+2023/10/19 23:22:38 Importing IcnsImagePlugin
+2023/10/19 23:22:38 Importing IcoImagePlugin
+2023/10/19 23:22:38 Importing ImImagePlugin
+2023/10/19 23:22:38 Importing ImtImagePlugin
+2023/10/19 23:22:38 Importing IptcImagePlugin
+2023/10/19 23:22:38 Importing JpegImagePlugin
+2023/10/19 23:22:38 Importing Jpeg2KImagePlugin
+2023/10/19 23:22:38 Importing McIdasImagePlugin
+2023/10/19 23:22:38 Importing MicImagePlugin
+2023/10/19 23:22:38 Image: failed to import MicImagePlugin: No module named 'olefile'
+2023/10/19 23:22:38 Importing MpegImagePlugin
+2023/10/19 23:22:38 Importing MpoImagePlugin
+2023/10/19 23:22:38 Importing MspImagePlugin
+2023/10/19 23:22:38 Importing PalmImagePlugin
+2023/10/19 23:22:38 Importing PcdImagePlugin
+2023/10/19 23:22:38 Importing PcxImagePlugin
+2023/10/19 23:22:38 Importing PdfImagePlugin
+2023/10/19 23:22:38 Importing PixarImagePlugin
+2023/10/19 23:22:38 Importing PngImagePlugin
+2023/10/19 23:22:38 Importing PpmImagePlugin
+2023/10/19 23:22:38 Importing PsdImagePlugin
+2023/10/19 23:22:38 Importing SgiImagePlugin
+2023/10/19 23:22:38 Importing SpiderImagePlugin
+2023/10/19 23:22:38 Importing SunImagePlugin
+2023/10/19 23:22:38 Importing TgaImagePlugin
+2023/10/19 23:22:38 Importing TiffImagePlugin
+2023/10/19 23:22:38 Importing WebPImagePlugin
+2023/10/19 23:22:38 Importing WmfImagePlugin
+2023/10/19 23:22:38 Importing XbmImagePlugin
+2023/10/19 23:22:38 Importing XpmImagePlugin
+2023/10/19 23:22:38 Importing XVThumbImagePlugin
+2023/10/19 23:53:10 Logging Server Start!
+2023/10/19 23:53:15 Logging Server Start!
+2023/10/19 23:53:15 try to connet with host:localhost port:11251
+2023/10/19 23:53:15 accepted: <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 57019)> from: ('127.0.0.1', 57019)
+2023/10/19 23:53:15 successful connecting with host:localhost port:11251
+2023/10/19 23:53:15 sending image data
+2023/10/19 23:53:15 successful receive b'\x80\x04\x95]\x00\x00\x00\x00\x00\x00' from <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 57019)>
+2023/10/19 23:54:14 Logging Server Start!
+2023/10/19 23:54:16 Logging Server Start!
+2023/10/19 23:54:16 try to connet with host:localhost port:11251
+2023/10/19 23:54:16 successful connecting with host:localhost port:11251
+2023/10/19 23:54:16 accepted: <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 57034)> from: ('127.0.0.1', 57034)
+2023/10/19 23:54:16 sending image data
+2023/10/19 23:54:16 successful receive b'\x80\x04\x95]\x00\x00\x00\x00\x00\x00' from <socket.socket fd=8, family=2, type=1, proto=0, laddr=('127.0.0.1', 11251), raddr=('127.0.0.1', 57034)>
