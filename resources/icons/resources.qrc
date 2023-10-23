@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>left.svg</file>
+    <file>right.svg</file>
+    <file>selection.svg</file>
+    <file>setting.svg</file>
+    <file>wrench.svg</file>
+  </qresource>
+</RCC>

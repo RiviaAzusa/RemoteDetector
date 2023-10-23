@@ -53,6 +53,7 @@ class Ui_MainWindow(object):
         sizePolicy1.setVerticalStretch(2)
         sizePolicy1.setHeightForWidth(self.ImageDisplayer.sizePolicy().hasHeightForWidth())
         self.ImageDisplayer.setSizePolicy(sizePolicy1)
+        self.ImageDisplayer.setMaximumSize(QSize(3840, 2160))
 
         self.mainLayout.addWidget(self.ImageDisplayer, 1, 0, 12, 2)
 

@@ -1,5 +1,5 @@
 import yaml
-from main import logging_setting
+from main_last import logging_setting
 import argparse
 
 
@@ -84,10 +84,20 @@ def test_image_():
     image_ = Image.open(b)
     image_.show()
 
+from typing import Optional
+def type_test(a):
+    print(bool(a))
+    bool(a is None)
+
+def type_test_(): 
+    type_test(True)
+    type_test(False)
+    type_test(None)
 
 if __name__ == '__main__':
+    type_test_()
     # test_image_()
-    test_image_()
+    # test_image_()
     # parser = argparse.ArgumentParser()
     # parser.add_argument('-c','--client',action='store_true',default=False)
     # args = parser.parse_args()
